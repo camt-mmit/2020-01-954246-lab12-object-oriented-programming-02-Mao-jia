@@ -1,4 +1,9 @@
 <?php
+/**
+     * ID:602110189
+     * Name: Mao Jia
+     * WeChat: Ga
+     */
 require_once './1.php';
 
 printf("Input (owner cc capacity): ");
